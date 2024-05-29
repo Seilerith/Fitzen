@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Life Fit</string>
+
+    <string name="first_name_label">Ad</string>>
+    <string name="last_name_label">Soyadı</string>
+
+    <string name="email_label">E-mail adresi</string>
+    <string name="username_label">Kullanıcı adı</string>
+    <string name="password_label">Parola</string>
+    <string name="confirm_password_label">Tekrar parola</string>
+    <string name="date_birth_label">Doğum tarihi</string>
+
+    <string name="weight_label">Kilo</string>
+    <string name="size_label">Boy</string>
+
+    <string name="login_button_text">Giriş yap</string>
+    <string name="register_button_text">Kayıt ol</string>
+    <string name="update_button_text">Güncelle</string>
+    <string name="delete_account_text">Hesap sil</string>
+    <string name="logout_text">Çıkış yap</string>
+
+    <string name="login_action_text">Hesabın var mı? <font color="#135FBD">Giriş yap</font></string>
+    <string name="register_action_text">Hesabın yok mu? <font color="#135FBD">Kaydol</font></string>
+
+    <string name="reset_password_action_text">Parolanı mı unuttun?</string>
+
+    <string name="name_required">Geçerli bir %s girin</string>
+    <string name="name_alpha">%s yalnızca harf içermelidir</string>
+
+    <string name="username_required">Kullanıcı adı girin</string>
+    <string name="username_length">Kullanıcı adı 4 ila 20 karakter arasında\nolmalıdır</string>
+    <string name="username_alphanumeric">Kullanıcı adı yalnızca harf ve\nrakamlardan oluşabilir</string>
+
+    <string name="password_required">Parola girin</string>
+    <string name="confirm_password_required">Parolayı tekrar girin</string>
+
+    <string name="password_length">Parola 6 ila 20 karakter arasında olmalıdır</string>
+    <string name="password_complexity">Parola en az bir harf, bir rakam ve bir\nözel karakter içermelidir</string>
+    <string name="password_no_spaces">Parola boşluk içermemelidir</string>
+    <string name="password_match">Parolalar eşleşmelidir</string>
+
+    <string name="email_required">E-mail adresi girin</string>
+    <string name="email_invalid">E-mail adresi geçerli olmalıdır</string>
+    <string name="email_already_exists">E-mail adresi zaten kayıtlı</string>
+
+    <string name="invalid_credentials">E-mail adresi veya parola yanlış</string>
+    <string name="already_account_exists">Bu hesap mevcut, lütfen giriş yapın</string>
+
+    <string name="reset_mail_sent">%s adresine sıfırlama bağlantısı gönderildi.</string>
+    <string name="sign_up_success">Hoş geldin, %s!\nAna sayfaya yönlendirileceksiniz.</string>
+    <string name="internal_error">Bir hata oluştu, lütfen tekrar deneyin</string>
+
+    <string name="weight_required">Kilo girin</string>
+    <string name="size_required">Boy girin</string>
+
+    <string name="bottom_navigation_menu_summary">Özet</string>
+    <string name="bottom_navigation_menu_daily">Günlük</string>
+    <string name="bottom_navigation_menu_exercises">Egzersizler</string>
+    <string name="bottom_navigation_menu_me">Ben</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="profile_fragment">Profil sayfası</string>
+    <string name="hello_blank_fragment">Hello world</string>
+
+
+    <string name="tasks_not_available">Liste mevcut değil</string>
+    <string name="delete_task_button_1">X</string>
+    <string name="delete_task_button_text">Sil</string>
+    <string name="add_task_button_text">Ekle</string>
+    <string name="task_label">Günlük görev</string>
+
+    <string name="add_task_fail">"Görev eklenemedi, lütfen daha sonra tekrar deneyin"</string>
+    <string name="delete_task_success">Görev silindi</string>
+    <string name="delete_task_fail">Görev silinemedi, lütfen daha sonra tekrar deneyin</string>
+</resources>
